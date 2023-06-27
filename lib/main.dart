@@ -25,7 +25,57 @@ class _MyWidgetState extends State<CalculatorApp> {
           //buttons area,
           Row(
             children: [
-              button(),
+              button(
+                  text: "AC",
+                  buttonbgColor: operatorColor,
+                  tColor: orangeColor),
+              button(
+                  text: "<-",
+                  buttonbgColor: operatorColor,
+                  tColor: orangeColor),
+              button(text: "", buttonbgColor: Colors.transparent),
+              button(
+                  text: "/", buttonbgColor: operatorColor, tColor: orangeColor),
+            ],
+          ),
+
+          Row(
+            children: [
+              button(text: "7"),
+              button(text: "8"),
+              button(text: "9"),
+              button(
+                  text: "x", buttonbgColor: operatorColor, tColor: orangeColor),
+            ],
+          ),
+
+          Row(
+            children: [
+              button(text: "4"),
+              button(text: "5"),
+              button(text: "6"),
+              button(
+                  text: "-", buttonbgColor: operatorColor, tColor: orangeColor),
+            ],
+          ),
+
+          Row(
+            children: [
+              button(text: "1"),
+              button(text: "2"),
+              button(text: "3"),
+              button(
+                  text: "+", buttonbgColor: operatorColor, tColor: orangeColor),
+            ],
+          ),
+
+          Row(
+            children: [
+              button(
+                  text: "%", buttonbgColor: operatorColor, tColor: orangeColor),
+              button(text: "0"),
+              button(text: "."),
+              button(text: "=", buttonbgColor: orangeColor),
             ],
           ),
         ],
@@ -51,7 +101,7 @@ class _MyWidgetState extends State<CalculatorApp> {
           child: Text(
             text,
             style: TextStyle(
-              fontSize: 18,
+              fontSize: 20,
               color: tColor,
               fontWeight: FontWeight.bold,
             ),
