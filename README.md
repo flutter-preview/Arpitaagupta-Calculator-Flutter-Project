@@ -17,13 +17,13 @@ The app utilizes the `math_expressions` package, which handles all the calculati
 - **Multiplication:** Perform multiplication operations by entering two numbers and pressing the "x" button.
 - **Division:** Perform division operations by entering two numbers and pressing the "/" button.
 - **Modulus:** Perform modulus operations by entering two numbers and pressing the "%" button.
-- **Error Handling:** The app handles runtime errors, such as dividing by zero or entering invalid mathematical expressions, providing a smooth user experience. On diving a number by zero gives ouput `Infinity`.
+- **Error Handling:** The app handles runtime errors, such as dividing by zero or entering invalid mathematical expressions, providing a smooth user experience. On diving a number by zero gives output `Infinity`.
 
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshots/Screenshot-1.png)
-![Screenshot 2](Screenshots/Screenshot-2.png)
+<img src="Screenshots/Screenshot-1.png" width="400" alt="Screenshot-1">
+<img src="Screenshots/Screenshot-2.png" width="400" alt="Screenshot-2">
 
 
 
