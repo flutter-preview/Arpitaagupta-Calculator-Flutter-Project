@@ -22,10 +22,10 @@ The app utilizes the `math_expressions` package, which handles all the calculati
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](Screenshots/Screenshot-1.png)
+![Screenshot 2](Screenshots/Screenshot-2.png)
 
-<!-- Add some screenshots of your app to showcase its interface -->
+
 
 ## 👉 Prerequisites
 
