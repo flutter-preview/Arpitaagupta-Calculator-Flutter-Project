@@ -22,8 +22,8 @@ The app utilizes the `math_expressions` package, which handles all the calculati
 
 ## 📸 Screenshots
 
-<img src="Screenshots/Screenshot-1.png" width="400" alt="Screenshot-1">
-<img src="Screenshots/Screenshot-2.png" width="400" alt="Screenshot-2">
+<img src="Screenshots/Screenshot-1.png" width="250" alt="Screenshot-1"> <img src="Screenshots/Screenshot-2.png" width="250" alt="Screenshot-2">
+
 
 
 
